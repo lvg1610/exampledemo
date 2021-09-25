@@ -1,0 +1,25 @@
+8 days
+----------------------------------
+1. Fundementals of Java
+2. Arrays & Strings
+3. Has A relation
+4. Inheritance and Polymorphism(1)
+5. Packages
+6. Interfaces
+7. Exception handling(1)
+8. Threads(1)
+9. IOStreams
+10. Generics & Collections(1.5)
+11. Java 89 features(0.5)
+12. eclipse
+---------------------------------
+
+2.5 days
+1 . Gradle
+2 . Junit
+3 . Mockito
+4 . Sonarqube
+------------------------------------------------------
+Email Id :-  Venugopal.9.L@in.niit.com
+
+Password :- 
